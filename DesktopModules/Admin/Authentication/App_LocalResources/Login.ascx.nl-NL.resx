@@ -18,9 +18,6 @@
   <data name="AssociateTitle.Text">
     <value xml:space="preserve">Koppel met een bestaand account</value>
   </data>
-  <data name="AssociationFailed.Text">
-    <value xml:space="preserve">Fout tijdens associatie identiteit van gebruiker. Onthoud dat de gebruikersnamen en wachtwoorden hoofdletter gevoelig zijn.</value>
-  </data>
   <data name="AuthenticatedHelp.Text">
     <value xml:space="preserve">U bent succesvol geauthenticeerd. Uw identiteit is echter geen bekende gebruiker van deze website. U kun óf uw identiteit koppelen met een bestaand account, of registreren met een nieuw account.</value>
   </data>
@@ -117,13 +114,16 @@
   <data name="UserLockedOut.Text">
     <value xml:space="preserve">Dit account is gedeactiveerd vanwege te veel inlog pogingen. Wacht {0} minuten voordat u het nogmaals probeert. Als u uw wachtwoord bent vergeten, gebruik dan de "vergeten wachtwoord" optie alvorens contact op te nemen met de beheerder van deze website.</value>
   </data>
-  <data name="UserLockedOut_ContactAdmin.Text">
-    <value xml:space="preserve">Dit account is vergrendeld na te veel mislukte login pogingen. Neem contact op met uw beheerder.</value>
-  </data>
   <data name="UsernameError.Text">
     <value xml:space="preserve">Gebruikersnaam bestaat niet</value>
   </data>
   <data name="UserNotAuthorized.Text">
     <value xml:space="preserve">U bent niet geautoriseerd om op deze website in te loggen.</value>
+  </data>
+  <data name="AssociationFailed.Text">
+    <value xml:space="preserve">Fout tijdens associatie identiteit van gebruiker. Onthoud dat de gebruikersnamen en wachtwoorden hoofdletter gevoelig zijn.</value>
+  </data>
+  <data name="UserLockedOut_ContactAdmin.Text">
+    <value xml:space="preserve">Dit account is vergrendeld na te veel mislukte login pogingen. Neem contact op met uw beheerder.</value>
   </data>
 </root>

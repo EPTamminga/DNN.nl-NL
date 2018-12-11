@@ -66,29 +66,29 @@
   <data name="plExpiryDate.Text">
     <value xml:space="preserve">Vervaldatum</value>
   </data>
-  <data name="plRoles.Help">
-    <value xml:space="preserve">Selecteer de toegangsrol</value>
+  <data name="plRoles.Help" lastModified="2015-12-31 10:33:36">
+    <value xml:space="preserve">Selecteer de toegangsrol.</value>
   </data>
   <data name="plRoles.Text">
     <value xml:space="preserve">Toegangsrol</value>
   </data>
-  <data name="plUsers.Help">
-    <value xml:space="preserve">Voer de gebruikersnaam in en klik op "Valideren" om te bevestigen</value>
+  <data name="plUsers.Help" lastModified="2015-12-31 10:33:36">
+    <value xml:space="preserve">Voer de gebruikersnaam in en klik op "Valideren" om te bevestigen.</value>
   </data>
   <data name="plUsers.Text">
     <value xml:space="preserve">Gebruikersnaam</value>
   </data>
-  <data name="RoleRemoveError.Text">
-    <value xml:space="preserve">De rollen van "Websitebeheerder" en "Geregistreerde gebruiker" kunnen niet verwijderd worden</value>
+  <data name="RoleRemoveError.Text" lastModified="2015-12-31 10:33:36">
+    <value xml:space="preserve">De rollen van "Websitebeheerder" en "Geregistreerde gebruiker" kunnen niet verwijderd worden.</value>
   </data>
-  <data name="RoleTitle.Text">
-    <value xml:space="preserve">Beheer gebruikers in rol {0}</value>
+  <data name="RoleTitle.Text" lastModified="2015-12-31 10:33:36">
+    <value xml:space="preserve">Beheer gebruikers in rol: {0}</value>
   </data>
   <data name="SecurityRole.Header">
     <value xml:space="preserve">Toegangsrol</value>
   </data>
-  <data name="SendNotification.Text">
-    <value xml:space="preserve">E-mail versturen?</value>
+  <data name="SendNotification.Text" lastModified="2015-12-31 10:33:36">
+    <value xml:space="preserve">E-mail versturen</value>
   </data>
   <data name="UpdateRole.Text">
     <value xml:space="preserve">Bijwerken toegangsrol</value>
@@ -96,11 +96,11 @@
   <data name="UserName.Header">
     <value xml:space="preserve">Gebruikersnaam</value>
   </data>
-  <data name="UserTitle.Text">
-    <value xml:space="preserve">Beheer rollen voor gebruiker {0}</value>
+  <data name="UserTitle.Text" lastModified="2015-12-31 10:33:36">
+    <value xml:space="preserve">Beheer rollen voor gebruiker:{0}</value>
   </data>
-  <data name="valDates.Text">
-    <value xml:space="preserve">Vervaldatum moet groter zijn dan Ingangsdatum</value>
+  <data name="valDates.Text" lastModified="2015-12-31 10:33:36">
+    <value xml:space="preserve">Vervaldatum moet groter zijn dan Ingangsdatum.</value>
   </data>
   <data name="valEffectiveDate.Text">
     <value xml:space="preserve">Ongeldige ingangsdatum</value>

@@ -15,20 +15,17 @@
   <data name="BasicTextBox.Text">
     <value xml:space="preserve">Tekst zonder opmaak</value>
   </data>
-  <data name="CompareListDefaultOption.Text">
-    <value xml:space="preserve">Vergelijk</value>
+  <data name="RichTextBox.Text">
+    <value xml:space="preserve">Tekst met opmaak</value>
   </data>
-  <data name="EditorTitleLabel.Text">
-    <value xml:space="preserve">{0} Editor</value>
+  <data name="Text.Text">
+    <value xml:space="preserve">Tekst</value>
   </data>
   <data name="Html.Text">
     <value xml:space="preserve">HTML</value>
   </data>
-  <data name="plRender.Help">
-    <value xml:space="preserve">Selecteer de te gebruiken modus om de HTML in weer te geven.</value>
-  </data>
-  <data name="plRender.Text">
-    <value xml:space="preserve">Weergave modus:</value>
+  <data name="Raw.Text">
+    <value xml:space="preserve">Ruw</value>
   </data>
   <data name="plView.Help">
     <value xml:space="preserve">Selecteer de editor</value>
@@ -36,14 +33,17 @@
   <data name="plView.Text">
     <value xml:space="preserve">Editor:</value>
   </data>
-  <data name="Raw.Text">
-    <value xml:space="preserve">Ruw</value>
+  <data name="plRender.Help">
+    <value xml:space="preserve">Selecteer de te gebruiken modus om de HTML in weer te geven.</value>
   </data>
-  <data name="RichTextBox.Text">
-    <value xml:space="preserve">Tekst met opmaak</value>
+  <data name="plRender.Text">
+    <value xml:space="preserve">Weergave modus:</value>
   </data>
-  <data name="Text.Text">
-    <value xml:space="preserve">Tekst</value>
+  <data name="CompareListDefaultOption.Text">
+    <value xml:space="preserve">Vergelijk</value>
+  </data>
+  <data name="EditorTitleLabel.Text">
+    <value xml:space="preserve">{0} Editor</value>
   </data>
   <data name="VersionLabel.Text">
     <value xml:space="preserve">Versie {0}</value>

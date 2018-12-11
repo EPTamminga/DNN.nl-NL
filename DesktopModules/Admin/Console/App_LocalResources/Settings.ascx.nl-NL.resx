@@ -12,8 +12,8 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AllowResize.Help">
-    <value xml:space="preserve">Toestaan dat de grootte van de iconen kan worden aangepast.</value>
+  <data name="AllowResize.Help" lastModified="2015-12-30 09:56:34">
+    <value xml:space="preserve">Selecteer deze optie toe te staan dat gebruikers de grootte van de iconen kunnen aanpassen.</value>
   </data>
   <data name="AllowResize.Text">
     <value xml:space="preserve">Icoon Grootte Aanpassen Toestaan</value>
@@ -63,8 +63,8 @@
   <data name="IconNone.Text">
     <value xml:space="preserve">Geen iconen</value>
   </data>
-  <data name="IncludeHiddenPages.Help">
-    <value xml:space="preserve">Selecteer om niet zichtbare pagina's mee te nemen in de weergave.</value>
+  <data name="IncludeHiddenPages.Help" lastModified="2015-12-30 11:21:06">
+    <value xml:space="preserve">Selecteer deze optie om niet zichtbare pagina's mee te nemen in de weergave.</value>
   </data>
   <data name="IncludeHiddenPages.Text">
     <value xml:space="preserve">Verborgen pagina's meenemen</value>

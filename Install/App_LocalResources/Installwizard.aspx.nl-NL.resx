@@ -87,8 +87,8 @@
   <data name="DatabaseObjectQualifier.Text">
     <value xml:space="preserve">Object Qualifier </value>
   </data>
-  <data name="DatabaseOwner.Text">
-    <value xml:space="preserve">Database owner</value>
+  <data name="DatabaseOwner.Text" lastModified="2018-07-24 11:44:46">
+    <value xml:space="preserve">Database Eigenaar</value>
   </data>
   <data name="DatabasePassword.Help">
     <value xml:space="preserve">Wachtwoord van de database.</value>
@@ -154,16 +154,16 @@
     <value xml:space="preserve">Verwijderen van oudere bestanden voor</value>
   </data>
   <data name="Email.Help">
-    <value xml:space="preserve">Vul een E-mailadres in voor deze gebruiker.</value>
+    <value xml:space="preserve">Vul een emailadres in voor deze gebruiker</value>
   </data>
   <data name="Email.Invalid">
-    <value xml:space="preserve">Het ingegeven E-mailadres is niet geldig</value>
+    <value xml:space="preserve">Het ingevulde emailadres is niet geldig</value>
   </data>
   <data name="Email.Required">
-    <value xml:space="preserve">Een E-mailadres is vereist</value>
+    <value xml:space="preserve">Een emailadres is vereist</value>
   </data>
   <data name="Email.Text">
-    <value xml:space="preserve">E-mailadres:</value>
+    <value xml:space="preserve">Emailadres:</value>
   </data>
   <data name="Error.Text">
     <value xml:space="preserve">Error </value>
@@ -181,16 +181,16 @@
     <value xml:space="preserve">Controle van machtiging op mappen en bestanden</value>
   </data>
   <data name="FileAndFolderPermissionCheckFailed.Text">
-    <value xml:space="preserve">&lt;div class="permission"&gt;&lt;img alt=afbeelding geeft de beveiligingsintellingen van de hoofdfolder van de website weer, Dit moet zijn Lezen, Schrijven en Wijzingen voor de ASPNET of NT AUTHORITY/NETWORK SERVICE accounts." src="..\403-3.gif" align="right" hspace="10"/&gt;
-&lt;p&gt;&lt;b&gt;&lt;font color='red'&gt;De website voldoet niet aan de beveiligingscheck&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+    <value xml:space="preserve">&amp;lt;div class="permission"&amp;gt;&amp;lt;img alt=afbeelding geeft de beveiligingsintellingen van de hoofdfolder van de website weer, Dit moet zijn Lezen, Schrijven en Wijzingen voor de ASPNET of NT AUTHORITY/NETWORK SERVICE accounts." src="..\403-3.gif" align="right" hspace="10"/&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color='red'&amp;gt;De website voldoet niet aan de beveiligingscheck&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
 Bij gebruik van Windows Explorer, browse naar de folders van uw website ( {0} ). Rechter muis klik op de  folder en selecteer delen en beveiliging uit het popup menu. selecteer de beveiligings tab. Voeg de benodigde gebruikers toe en stel de juiste rechten in.
-&lt;br/&gt;&lt;br/&gt;
-&lt;h3&gt;Bij gebruik van Windows 2000 - IIS5&lt;/h3&gt;
-&lt;p&gt;De ASPNET User Account moet Lees, Schrijf, en wijzing rechten hebben op de hoofdfolder van uw website&lt;/p&gt;
-&lt;h3&gt;Bij gebruik van Windows 2003, Windows Vista of Windows Server 2008 en  IIS6 of IIS7&lt;/h3&gt;
-&lt;p&gt;De NT AUTHORITY\NETWORK SERVICE User Account moet lees, Schrijf, en Wijzing rechten hebben op de hoofd folder van uw website.&lt;/p&gt;
-&lt;h3&gt;Bij gebruik van Windows 7 of Windows Server 2008 R2 en  IIS7.5&lt;/h3&gt;
-&lt;p&gt;Moet de IIS AppPool\DefaultAppPool User Account Lees, Schrijf, en Wijzig rechten hebben op de hoofd folder van uw website.&lt;/p&gt;&lt;p&gt;&lt;a class="dnnPrimaryAction" href=""&gt;Recheck&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</value>
+&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
+&amp;lt;h3&amp;gt;Bij gebruik van Windows 2000 - IIS5&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;De ASPNET User Account moet Lees, Schrijf, en wijzing rechten hebben op de hoofdfolder van uw website&amp;lt;/p&amp;gt;
+&amp;lt;h3&amp;gt;Bij gebruik van Windows 2003, Windows Vista of Windows Server 2008 en  IIS6 of IIS7&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;De NT AUTHORITY\NETWORK SERVICE User Account moet lees, Schrijf, en Wijzing rechten hebben op de hoofd folder van uw website.&amp;lt;/p&amp;gt;
+&amp;lt;h3&amp;gt;Bij gebruik van Windows 7 of Windows Server 2008 R2 en  IIS7.5&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;Moet de IIS AppPool\DefaultAppPool User Account Lees, Schrijf, en Wijzig rechten hebben op de hoofd folder van uw website.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a class="dnnPrimaryAction" href=""&amp;gt;Recheck&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt;</value>
   </data>
   <data name="FileAndFolderPermissionCheckTitle.Text">
     <value xml:space="preserve">Controleren van machtiging op mappen en bestanden</value>
@@ -212,6 +212,15 @@ Bij gebruik van Windows Explorer, browse naar de folders van uw website ( {0} ).
   </data>
   <data name="IISVerificationFail.Text">
     <value xml:space="preserve">AppPool in IIS moet onder Integrated Mode draaien</value>
+  </data>
+  <data name="ImprovementProgramExplain.Text">
+    <value xml:space="preserve">Het product verbeter programma stelt ons in staat om een beter beeld te krijgen hoe we DNN kunnen verbeteren voor jou. De data helpt ons om het gebruik te analyseren en om te zien wat belangrijk is voor de mensen die ons product gebruiken. Alle data is anoniem en alleen voor intern gebruik. Kijk voor meer informatie op &amp;lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&amp;gt;Product Improvement Program&amp;lt;/a&amp;gt;.</value>
+  </data>
+  <data name="ImprovementProgramLabel.Text">
+    <value xml:space="preserve">Stuur anonieme gebruikersinformatie naar DNN</value>
+  </data>
+  <data name="ImprovementsProgramTitle.Text">
+    <value xml:space="preserve">product verbetering programma</value>
   </data>
   <data name="InitHostSetting.Text">
     <value xml:space="preserve">Doorvoeren van Host instellingen</value>
@@ -256,7 +265,7 @@ Bij gebruik van Windows Explorer, browse naar de folders van uw website ( {0} ).
     <value xml:space="preserve">Installatieversie toevoegen</value>
   </data>
   <data name="IntroDetail.Text">
-    <value xml:space="preserve">&lt;a class="videoLink" href="http://www.dotnetnuke.com/Resources/Training/Training-Videos/Installation.aspx" target="new"&gt;Bekijk Installatie Video&lt;/a&gt;</value>
+    <value xml:space="preserve">&amp;lt;a class="videoLink" href="http://www.dotnetnuke.com/Resources/Training/Training-Videos/Installation.aspx" target="new"&amp;gt;Bekijk Installatie Video&amp;lt;/a&amp;gt;</value>
   </data>
   <data name="InvalidQualifier.Text">
     <value xml:space="preserve">De objectqualifier moet met een letter beginnen en mag niet langer zijn dan 20 tekens</value>

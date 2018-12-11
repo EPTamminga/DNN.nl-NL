@@ -99,6 +99,12 @@
   <data name="ExtensionChangeConfirmTitle.Text">
     <value xml:space="preserve">De extensies zijn veranderd</value>
   </data>
+  <data name="FileLabel.Text" lastModified="2016-03-08 14:24:05">
+    <value xml:space="preserve">Bestand</value>
+  </data>
+  <data name="FileMultLabel.Text" lastModified="2016-03-08 14:24:05">
+    <value xml:space="preserve">Bestanden</value>
+  </data>
   <data name="FileUploadAlreadyExists.Text">
     <value xml:space="preserve">Het bestand dat u probeert te uploaden bestaat al in deze locatie</value>
   </data>
@@ -110,6 +116,12 @@
   </data>
   <data name="FileUploadStopped.Text">
     <value xml:space="preserve">Bestand upload is gestopt</value>
+  </data>
+  <data name="FolderLabel.Text" lastModified="2016-03-08 14:24:05">
+    <value xml:space="preserve">Map</value>
+  </data>
+  <data name="FolderMultLabel.Text" lastModified="2016-03-08 14:24:05">
+    <value xml:space="preserve">Mappen</value>
   </data>
   <data name="FolderName.Help">
     <value xml:space="preserve">Dit is de naam van de map</value>

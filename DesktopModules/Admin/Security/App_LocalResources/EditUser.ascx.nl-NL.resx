@@ -24,6 +24,9 @@
   <data name="cmdDelete.Text">
     <value xml:space="preserve">Uitschrijven</value>
   </data>
+  <data name="cmdHMACGenerate.Text" lastModified="2015-12-31 10:28:00">
+    <value xml:space="preserve">Genereer HMCA id's</value>
+  </data>
   <data name="cmdProfile.Text">
     <value xml:space="preserve">Profiel beheren</value>
   </data>
@@ -39,11 +42,17 @@
   <data name="ControlTitle_profile.Text">
     <value xml:space="preserve">Profiel</value>
   </data>
-  <data name="DisplayNameNotUnique.Text" lastModified="2015-01-09 11:03:35">
+  <data name="DisplayNameNotUnique.Text">
     <value xml:space="preserve">De weergavenaam die u heeft ingegeven is al reeds in gebruik, kies een andere naam.</value>
   </data>
-  <data name="ErrorDialogTitle.Text">
-    <value xml:space="preserve">Overwacht fout</value>
+  <data name="ErrorDialogTitle.Text" lastModified="2015-12-31 10:28:00">
+    <value xml:space="preserve">Overwacht fout.</value>
+  </data>
+  <data name="HMACAppIdLabel.Text" lastModified="2015-12-31 10:28:00">
+    <value xml:space="preserve">HMAC APP Id</value>
+  </data>
+  <data name="HMACAppSecretLabel.Text" lastModified="2015-12-31 10:28:00">
+    <value xml:space="preserve">HMAC APP geheim</value>
   </data>
   <data name="PasswordSettings.Text">
     <value xml:space="preserve">Wachtwoord beheren</value>
@@ -51,11 +60,11 @@
   <data name="SuccessMessage.Text">
     <value xml:space="preserve">Profiel URL is succesvol bijgewerkt</value>
   </data>
-  <data name="UserSubscribed.Text">
-    <value xml:space="preserve">U inschrijving op de rol {0} is succesvol </value>
+  <data name="UserSubscribed.Text" lastModified="2015-12-31 10:28:00">
+    <value xml:space="preserve">U inschrijving op de rol {0} is succesvol .</value>
   </data>
-  <data name="UserUnSubscribed.Text">
-    <value xml:space="preserve">U uitschrijving op de rol {0} is succesvol</value>
+  <data name="UserUnSubscribed.Text" lastModified="2015-12-31 10:28:00">
+    <value xml:space="preserve">U uitschrijving op de rol {0} is succesvol.</value>
   </data>
   <data name="UserUpdated.Text">
     <value xml:space="preserve">Account is succesvol bijgewerkt.</value>

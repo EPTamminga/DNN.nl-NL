@@ -21,8 +21,8 @@
   <data name="NoFileTypeSelected.Text">
     <value xml:space="preserve">U moet een bestand type selecteren voordat u op de knop bijwerken drukt.</value>
   </data>
-  <data name="plFile.Help">
-    <value xml:space="preserve">Selecteer van welk bestand de bron moet worden weergegeven.</value>
+  <data name="plFile.Help" lastModified="2015-12-30 09:20:26">
+    <value xml:space="preserve">Selecteer het bestand waarvan je de bron wilt weergegeven.</value>
   </data>
   <data name="plFile.Text">
     <value xml:space="preserve">Selecteer Bestand:</value>

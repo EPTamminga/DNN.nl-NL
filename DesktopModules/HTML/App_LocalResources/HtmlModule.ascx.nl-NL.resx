@@ -15,42 +15,6 @@
   <data name="AddContent.Action">
     <value xml:space="preserve">Tekst bewerken</value>
   </data>
-  <data name="AddContent.Text">
-    <value xml:space="preserve">Klik hier om de inhoud te bewerken</value>
-  </data>
-  <data name="AddContentFromActionMenu.Text">
-    <value xml:space="preserve">Kies "Tekst Bewerken" uit actiemenu om inhoud te bewerken</value>
-  </data>
-  <data name="AddContentFromToolBar.Text">
-    <value xml:space="preserve">Selecteer "Bewerk content" van het Bewerken (Potlood icoon) actie menu.</value>
-  </data>
-  <data name="Bold.ToolTip">
-    <value xml:space="preserve">Vet</value>
-  </data>
-  <data name="Cancel.ToolTip">
-    <value xml:space="preserve">Annuleren</value>
-  </data>
-  <data name="CreateLink.ToolTip">
-    <value xml:space="preserve">Maak link</value>
-  </data>
-  <data name="Edit.ToolTip">
-    <value xml:space="preserve">Wijzig</value>
-  </data>
-  <data name="Indent.ToolTip">
-    <value xml:space="preserve">Ingesprongen</value>
-  </data>
-  <data name="Italic.ToolTip">
-    <value xml:space="preserve">Cursief</value>
-  </data>
-  <data name="JustifyCenter.ToolTip">
-    <value xml:space="preserve">Gecentreerd</value>
-  </data>
-  <data name="JustifyLeft.ToolTip">
-    <value xml:space="preserve">Links uitgelijnd</value>
-  </data>
-  <data name="JustifyRight.ToolTip">
-    <value xml:space="preserve">Rechts uitgelijnd</value>
-  </data>
   <data name="ModuleHelp.Text">
     <value xml:space="preserve">&lt;p&gt;
         Met de HTML module kan zowel platte- als HTML tekst beheerd worden:
@@ -69,25 +33,61 @@
                 e-mail links, File Manager fotogalerij, bullet points, spellingscontrole en nog
                 veel meer.&lt;/li&gt;</value>
   </data>
+  <data name="AddContent.Text">
+    <value xml:space="preserve">Klik hier om de inhoud te bewerken</value>
+  </data>
+  <data name="AddContentFromToolBar.Text">
+    <value xml:space="preserve">Selecteer "Bewerk content" van het Bewerken (Potlood icoon) actie menu.</value>
+  </data>
+  <data name="AddContentFromActionMenu.Text">
+    <value xml:space="preserve">Kies "Tekst Bewerken" uit actiemenu om inhoud te bewerken</value>
+  </data>
+  <data name="Workflow.Action">
+    <value xml:space="preserve">Workflow</value>
+  </data>
   <data name="MyWork.Action">
     <value xml:space="preserve">Mijn werk</value>
   </data>
-  <data name="OrderedList.ToolTip">
-    <value xml:space="preserve">Geordende lijst</value>
+  <data name="Bold.ToolTip">
+    <value xml:space="preserve">Vet</value>
+  </data>
+  <data name="Indent.ToolTip">
+    <value xml:space="preserve">Ingesprongen</value>
+  </data>
+  <data name="Italic.ToolTip">
+    <value xml:space="preserve">Cursief</value>
   </data>
   <data name="Outdent.ToolTip">
     <value xml:space="preserve">Terugspringen</value>
   </data>
-  <data name="Save.ToolTip">
-    <value xml:space="preserve">Opslaan</value>
-  </data>
   <data name="Underline.ToolTip">
     <value xml:space="preserve">Onderstrepen</value>
   </data>
+  <data name="Cancel.ToolTip">
+    <value xml:space="preserve">Annuleren</value>
+  </data>
+  <data name="CreateLink.ToolTip">
+    <value xml:space="preserve">Maak link</value>
+  </data>
+  <data name="Edit.ToolTip">
+    <value xml:space="preserve">Wijzig</value>
+  </data>
+  <data name="JustifyCenter.ToolTip">
+    <value xml:space="preserve">Gecentreerd</value>
+  </data>
+  <data name="JustifyLeft.ToolTip">
+    <value xml:space="preserve">Links uitgelijnd</value>
+  </data>
+  <data name="JustifyRight.ToolTip">
+    <value xml:space="preserve">Rechts uitgelijnd</value>
+  </data>
+  <data name="OrderedList.ToolTip">
+    <value xml:space="preserve">Geordende lijst</value>
+  </data>
+  <data name="Save.ToolTip">
+    <value xml:space="preserve">Opslaan</value>
+  </data>
   <data name="UnorderedList.ToolTip">
     <value xml:space="preserve">Niet geordende lijst</value>
-  </data>
-  <data name="Workflow.Action">
-    <value xml:space="preserve">Workflow</value>
   </data>
 </root>

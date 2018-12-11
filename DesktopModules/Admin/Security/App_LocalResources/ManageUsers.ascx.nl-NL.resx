@@ -87,32 +87,32 @@
   <data name="NewPassword.Text">
     <value xml:space="preserve">U moet een wachtwoord opgeven.</value>
   </data>
-  <data name="NotAuthorized.Text">
-    <value xml:space="preserve">U bent niet geautoriseerd om deze gebruiker te bewerken</value>
+  <data name="NotAuthorized.Text" lastModified="2015-12-31 10:29:10">
+    <value xml:space="preserve">U bent niet geautoriseerd om deze gebruiker te bewerken.</value>
   </data>
-  <data name="NoUser.Text">
-    <value xml:space="preserve">Dit account bestaat niet</value>
+  <data name="NoUser.Text" lastModified="2015-12-31 10:29:10">
+    <value xml:space="preserve">Dit account bestaat niet.</value>
   </data>
   <data name="Password.Action">
     <value xml:space="preserve">Beheer Gebruikers Wachtwoord</value>
   </data>
-  <data name="PasswordQAChanged.Text">
-    <value xml:space="preserve">Wachtwoord vraag en antwoord succesvol bijgewerkt</value>
+  <data name="PasswordQAChanged.Text" lastModified="2015-12-31 10:29:10">
+    <value xml:space="preserve">Wachtwoord vraag en antwoord succesvol bijgewerkt.</value>
   </data>
-  <data name="plCaptcha.Help">
-    <value xml:space="preserve">Voer de beveiligingscode in</value>
+  <data name="plCaptcha.Help" lastModified="2015-12-31 10:29:10">
+    <value xml:space="preserve">Voer de beveiligingscode in.</value>
   </data>
   <data name="plCaptcha.Text">
     <value xml:space="preserve">Beveiligingscode:</value>
   </data>
-  <data name="plNewConfirm.Help">
-    <value xml:space="preserve">Voer het nieuwe wachtwoord opnieuw in om er zeker van te zijn dat u geen typefout heeft gemaakt</value>
+  <data name="plNewConfirm.Help" lastModified="2015-12-31 10:29:10">
+    <value xml:space="preserve">Voer het nieuwe wachtwoord opnieuw in om er zeker van te zijn dat u geen typefout heeft gemaakt.</value>
   </data>
   <data name="plNewConfirm.Text">
     <value xml:space="preserve">Bevestig nieuwe wachtwoord:</value>
   </data>
-  <data name="plNewPassword.Help">
-    <value xml:space="preserve">Geef het nieuwe wachtwoord</value>
+  <data name="plNewPassword.Help" lastModified="2015-12-31 10:29:10">
+    <value xml:space="preserve">Geef het nieuwe wachtwoord.</value>
   </data>
   <data name="plNewPassword.Text">
     <value xml:space="preserve">Nieuw wachtwoord:</value>
@@ -138,8 +138,8 @@
   <data name="SuperUser.Text">
     <value xml:space="preserve">Dit account is van een SuperUser. U heeft niet de juiste machtingen om het account van een SuperUser te wijzigen.</value>
   </data>
-  <data name="UserAuthorized.Text">
-    <value xml:space="preserve">De gebruiker is nu geautoriseerd</value>
+  <data name="UserAuthorized.Text" lastModified="2015-12-31 10:29:10">
+    <value xml:space="preserve">De gebruiker is nu geautoriseerd.</value>
   </data>
   <data name="UserDemotedFromSuperuser.Text">
     <value xml:space="preserve">Gebruiker is bijgewerkt tot standaard gebruiker.</value>
@@ -147,20 +147,20 @@
   <data name="UserLockedOut.Text">
     <value xml:space="preserve">Dit account is op dit moment vergrendeld als gevolg van te veel foutieve inlog pogingen.</value>
   </data>
-  <data name="UserPasswordUpdateChanged.Text">
-    <value xml:space="preserve">Gebruiker moet het wachtwoord bij de volgende login bijwerken</value>
+  <data name="UserPasswordUpdateChanged.Text" lastModified="2015-12-31 10:29:10">
+    <value xml:space="preserve">Gebruiker moet het wachtwoord bij de volgende login bijwerken.</value>
   </data>
   <data name="UserPromotedToSuperuser.Text">
     <value xml:space="preserve">Gebruiker is bijgewerkt tot een Superuser.</value>
   </data>
-  <data name="UserSubscribed.Text">
-    <value xml:space="preserve">U ben nu geabonneerd op rol {0}</value>
+  <data name="UserSubscribed.Text" lastModified="2015-12-31 10:29:10">
+    <value xml:space="preserve">U ben nu geabonneerd op rol {0}.</value>
   </data>
   <data name="UserTitle.Text">
     <value xml:space="preserve">Bewerk Gebruiker- {0} (Id: {1})</value>
   </data>
-  <data name="UserUnAuthorized.Text">
-    <value xml:space="preserve">De gebruiker is nu niet meer geautoriseerd</value>
+  <data name="UserUnAuthorized.Text" lastModified="2015-12-31 10:29:10">
+    <value xml:space="preserve">De gebruiker is nu niet meer geautoriseerd.</value>
   </data>
   <data name="UserUnSubscribed.Text">
     <value xml:space="preserve">U bent nu niet meer lid van de rol {0}.</value>

@@ -12,8 +12,8 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ControlTitle_.Text">
-    <value xml:space="preserve">Basis functionaliteiten</value>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;p&gt;Klik op een item om naar de betreffende pagina te gaan&lt;/p&gt;</value>
   </data>
   <data name="Hide.Text">
     <value xml:space="preserve">Simpele Weergave</value>
@@ -24,13 +24,13 @@
   <data name="IconFileLarge.Text">
     <value xml:space="preserve">Grote iconen</value>
   </data>
+  <data name="Show.Text">
+    <value xml:space="preserve">Gedetailleerde Weergave</value>
+  </data>
   <data name="IconNone.Text">
     <value xml:space="preserve">Geen icons</value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;p&gt;Klik op een item om naar de betreffende pagina te gaan&lt;/p&gt;</value>
-  </data>
-  <data name="Show.Text">
-    <value xml:space="preserve">Gedetailleerde Weergave</value>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Basis functionaliteiten</value>
   </data>
 </root>

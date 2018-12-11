@@ -54,6 +54,15 @@
   <data name="Tab.AdvancedSettings.Title.Text">
     <value xml:space="preserve">Geavanceerde configuratie instellingen</value>
   </data>
+  <data name="Tab.DCCManager.Title.Text" lastModified="2015-12-31 10:48:58">
+    <value xml:space="preserve">Dynamic Content Type Manager</value>
+  </data>
+  <data name="Tab.DigitalAssetsManagement.Title.Text" lastModified="2015-12-31 10:48:58">
+    <value xml:space="preserve">Bestandsmanager</value>
+  </data>
+  <data name="Tab.Extensions.Title.Text" lastModified="2015-12-31 10:48:58">
+    <value xml:space="preserve">Extenties</value>
+  </data>
   <data name="Tab.GettingStarted.Actions.Module.Content.0.Text">
     <value xml:space="preserve">Bekijk de introductie video</value>
   </data>
@@ -147,20 +156,20 @@
   <data name="Tab.GettingStarted.Title.Text">
     <value xml:space="preserve">Welkom bij uw DotNetNuke installatie</value>
   </data>
-  <data name="Tab.Home.Description.Text">
-    <value />
-  </data>
-  <data name="Tab.Home.Keywords.Text">
-    <value />
-  </data>
   <data name="Tab.Home.Name.Text">
     <value xml:space="preserve">Home</value>
   </data>
-  <data name="Tab.Home.PageHeadText.Text">
-    <value />
+  <data name="Tab.MyFriends.Title.Text" lastModified="2015-12-31 10:48:58">
+    <value xml:space="preserve">Mijn vrienden</value>
   </data>
-  <data name="Tab.Home.Title.Text">
-    <value />
+  <data name="Tab.MyMessages.Title.Text" lastModified="2015-12-31 10:48:58">
+    <value xml:space="preserve">Mijn berichten</value>
+  </data>
+  <data name="Tab.MyProfile.Title.Text" lastModified="2015-12-31 10:48:58">
+    <value xml:space="preserve">Mijn profiel</value>
+  </data>
+  <data name="Tab.PortalAdministration.Title.Text" lastModified="2015-12-31 10:48:58">
+    <value xml:space="preserve">Website administratie</value>
   </data>
   <data name="Tab.SearchAdmin.ContentPane.Module.Title.Text">
     <value xml:space="preserve">Zoek Admin</value>
@@ -168,10 +177,19 @@
   <data name="Tab.SearchAdmin.Description.Text">
     <value xml:space="preserve">Zoek Admin</value>
   </data>
-  <data name="Tab.UserSwitcher.ContentPane.Module.Title.Text">
-    <value xml:space="preserve">User Switcher</value>
+  <data name="Tab.SearchResultsCE.Title.Text" lastModified="2015-12-31 10:48:58">
+    <value xml:space="preserve">Zoek resultaten</value>
   </data>
-  <data name="Tab.UserSwitcher.Description.Text">
-    <value xml:space="preserve">User Switcher</value>
+  <data name="Tab.SecurityRoles.Title.Text" lastModified="2015-12-31 10:48:58">
+    <value xml:space="preserve">Beveiligingsrollen</value>
+  </data>
+  <data name="Tab.SiteSettings.Title.Text" lastModified="2015-12-31 10:48:58">
+    <value xml:space="preserve">Site instellingen</value>
+  </data>
+  <data name="Tab.Taxonomy.Title.Text" lastModified="2015-12-31 10:48:58">
+    <value xml:space="preserve">Taxonomy</value>
+  </data>
+  <data name="Tab.UserAccounts.Title.Text" lastModified="2015-12-31 10:48:58">
+    <value xml:space="preserve">Gebruikersaccounts</value>
   </data>
 </root>

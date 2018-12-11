@@ -31,7 +31,7 @@
     <value xml:space="preserve">Alles</value>
   </data>
   <data name="AllRoles.Text">
-    <value xml:space="preserve">&lt; Alle rollen &gt;</value>
+    <value xml:space="preserve">&amp;lt; Alle rollen &amp;gt;</value>
   </data>
   <data name="AllUsers.Text">
     <value xml:space="preserve">Alle gebruikers</value>
@@ -39,11 +39,17 @@
   <data name="ASSEMBLY_Added.Text">
     <value xml:space="preserve">Assembly geregistreerd</value>
   </data>
+  <data name="ASSEMBLY_AddedBindingRedirect.Text">
+    <value xml:space="preserve">Binding redirect toegevoegd voor assembly</value>
+  </data>
   <data name="ASSEMBLY_InUse.Text">
     <value xml:space="preserve">Assembly wordt door een ander pakket gebruikt</value>
   </data>
   <data name="ASSEMBLY_Registered.Text">
     <value xml:space="preserve">Assembly is reeds geregistreerd</value>
+  </data>
+  <data name="ASSEMBLY_RemovedBindingRedirect.Text">
+    <value xml:space="preserve"> Binding redirect verwijderd voor assembly</value>
   </data>
   <data name="ASSEMBLY_UnRegistered.Text">
     <value xml:space="preserve">Assembly registratie verwijderd</value>
@@ -225,8 +231,11 @@
   <data name="Containers.Text">
     <value xml:space="preserve">Containers </value>
   </data>
+  <data name="ContentType.Text" lastModified="2018-07-20 13:43:15">
+    <value xml:space="preserve">Contenttype</value>
+  </data>
   <data name="ContractExpired.Error">
-    <value xml:space="preserve">Het hosting contract voor {0} is verstreken op {1}. Neem contact op met &lt;a href="mailto:{2}"&gt; {2} &lt;/ a&gt; voor meer informatie.</value>
+    <value xml:space="preserve">Het hosting contract voor {0} is verstreken op {1}. Neem contact op met &amp;lt;a href="mailto:{2}"&amp;gt; {2} &amp;lt;/ a&amp;gt; voor meer informatie.</value>
   </data>
   <data name="ControlDirective.Text">
     <value xml:space="preserve">Formatteren van instructie voor besturingselement</value>
@@ -238,7 +247,7 @@
     <value xml:space="preserve">Formatteren registratie instructie</value>
   </data>
   <data name="CopyPermissionsToChildren.Text">
-    <value xml:space="preserve">Rechten zullen worden vervangen voor alle dochter pagina's vam deze pagina.&lt;br /&gt;&lt;br /&gt;Weet u zeker dat u door wilt gaag?</value>
+    <value xml:space="preserve">Rechten zullen worden vervangen voor alle dochter pagina's vam deze pagina.&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Weet u zeker dat u door wilt gaag?</value>
   </data>
   <data name="CreateAdminUser.Error">
     <value xml:space="preserve">Fout bij aanmaken Beheerder Account</value>
@@ -279,37 +288,40 @@
   <data name="DASHBOARD_UnRegistered.Text">
     <value xml:space="preserve">Dashboard Control succesvol verwijderd</value>
   </data>
+  <data name="DataType.Text" lastModified="2018-07-20 13:43:15">
+    <value xml:space="preserve">Datatype</value>
+  </data>
   <data name="Day.Text">
     <value xml:space="preserve">Dag</value>
   </data>
   <data name="DayAgo.Text">
-    <value xml:space="preserve"> dagen geleden</value>
+    <value xml:space="preserve">{0} dagen geleden</value>
   </data>
   <data name="Days.Text">
     <value xml:space="preserve">Dagen</value>
   </data>
   <data name="DaysAgo.Text">
-    <value xml:space="preserve"> dagen geleden</value>
+    <value xml:space="preserve">{0} dagen geleden</value>
   </data>
-  <data name="DefaultDirectPublishWorkflowDescription.Text" lastModified="2015-01-06 12:27:23">
+  <data name="DefaultDirectPublishWorkflowDescription.Text">
     <value xml:space="preserve">Staat een auteur toe om direct content op de website te publiceren</value>
   </data>
-  <data name="DefaultDirectPublishWorkflowName.Text" lastModified="2015-01-06 12:27:23">
+  <data name="DefaultDirectPublishWorkflowName.Text">
     <value xml:space="preserve">Direct publiceren</value>
   </data>
   <data name="DefaultFolderMappings.Error">
     <value xml:space="preserve">Fout bij het maken van Standaard Map Typen</value>
   </data>
-  <data name="DefaultSaveDraftWorkflowDescription.Text" lastModified="2015-01-06 12:27:23">
+  <data name="DefaultSaveDraftWorkflowDescription.Text">
     <value xml:space="preserve">Staat een auteur toe om een kopie van een schets op te slaan voor de content wordt gepubliceerd.</value>
   </data>
-  <data name="DefaultSaveDraftWorkflowName.Text" lastModified="2015-01-06 12:27:23">
+  <data name="DefaultSaveDraftWorkflowName.Text">
     <value xml:space="preserve">Schets opslaan</value>
   </data>
   <data name="DefaultWorkflowDescription.Text">
     <value xml:space="preserve">Geeft de auteur de mogelijkheid om inhoud te beheren en deze vervolgend te laten reviewen door andere gebruikers voordat deze wordt gepubliceerd </value>
   </data>
-  <data name="DefaultWorkflowMigrationPrefix.Text" lastModified="2015-01-06 12:27:23">
+  <data name="DefaultWorkflowMigrationPrefix.Text">
     <value xml:space="preserve">Mappen:</value>
   </data>
   <data name="DefaultWorkflowName.Text">
@@ -362,7 +374,7 @@
   </data>
   <data name="DeleteSharedModule.Confirm">
     <value xml:space="preserve">Deze module wordt gedeeld door andere sites in de sitegroep. 
-Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&amp;nbsp;&amp;nbsp;Controleer instellingen om te zien welke sites de module delen, Module instellingen&gt;toegevoegd aan pagina.nbsp;&amp;nbsp;Weet u zeker dat u wilt doorgaan en deze module en alle gedeelde exemplaren verwijderen?
+Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&amp;amp;nbsp;&amp;amp;nbsp;Controleer instellingen om te zien welke sites de module delen, Module instellingen&amp;gt;toegevoegd aan pagina.nbsp;&amp;amp;nbsp;Weet u zeker dat u wilt doorgaan en deze module en alle gedeelde exemplaren verwijderen?
 </value>
   </data>
   <data name="DeletetUser.Text">
@@ -407,7 +419,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
   <data name="DNN_Valid.Text">
     <value xml:space="preserve">DNN bestand heeft correct {0} formaat.</value>
   </data>
-  <data name="DNN_ValidSkinObject.Text" lastModified="2015-01-06 15:07:01">
+  <data name="DNN_ValidSkinObject.Text">
     <value xml:space="preserve">DNN bestand is in correct 2.0 ThemeObject formaat.</value>
   </data>
   <data name="DraftCompleted.Action">
@@ -461,7 +473,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
   <data name="DuplicateDisplayName.Text">
     <value xml:space="preserve">De weergegeven naam is al in gebruik.</value>
   </data>
-  <data name="DuplicateSkinObject.Detail" lastModified="2015-01-06 15:07:01">
+  <data name="DuplicateSkinObject.Detail">
     <value xml:space="preserve">Theme's die dit symbool gebruiken zullen het geregistreerde besturingselement gebruiken {0} in plaats van het gespecificeerde duplicaat ({1}).  Dit thema kan verkeerd weergeven worden.</value>
   </data>
   <data name="DuplicateSkinObject.Error">
@@ -476,7 +488,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
   <data name="EndSkinFile.Text">
     <value xml:space="preserve">Einde verwerken bestand</value>
   </data>
-  <data name="EndSkinFiles.Text" lastModified="2015-01-06 15:07:01">
+  <data name="EndSkinFiles.Text">
     <value xml:space="preserve">Einde verwerken thema/container bestanden</value>
   </data>
   <data name="EndZip.Text">
@@ -663,13 +675,13 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Bestanden lezen gereed.</value>
   </data>
   <data name="FileUpload.UnzipFileFailedPromptBody.Text">
-    <value xml:space="preserve">&lt;div class="invalidFiles"&gt;&lt;p&gt;[COUNT] van [TOTAL] bestanden zijn niet uitgepakt omdat het bestandstype niet wordt ondersteund:&lt;/p&gt;[FILELIST]&lt;/div&gt;</value>
+    <value xml:space="preserve">&amp;lt;div class="invalidFiles"&amp;gt;&amp;lt;p&amp;gt;[COUNT] van [TOTAL] bestanden zijn niet uitgepakt omdat het bestandstype niet wordt ondersteund:&amp;lt;/p&amp;gt;[FILELIST]&amp;lt;/div&amp;gt;</value>
   </data>
   <data name="FileUpload.UnzipFilePromptTitle.Text">
     <value xml:space="preserve">Unzip Informatie</value>
   </data>
   <data name="FileUpload.UnzipFileSuccessPromptBody.Text">
-    <value xml:space="preserve">&lt;div class="validFiles"&gt;&lt;p&gt;[TOTAL] van [TOTAL] Bestanden zijn succesvol uitgepakt.&lt;/div&gt;</value>
+    <value xml:space="preserve">&amp;lt;div class="validFiles"&amp;gt;&amp;lt;p&amp;gt;[TOTAL] van [TOTAL] Bestanden zijn succesvol uitgepakt.&amp;lt;/div&amp;gt;</value>
   </data>
   <data name="FileWrite.Text">
     <value xml:space="preserve">Bestand schrijven</value>
@@ -746,44 +758,8 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
   <data name="FTB_ImageUploadNoFile.Text">
     <value xml:space="preserve">Geen bestand geüpload</value>
   </data>
-  <data name="GettingStarted.DontShowDialogLabel">
-    <value xml:space="preserve">Laat dit bericht niet meer zien</value>
-  </data>
-  <data name="GettingStarted.DownloadManualButton">
-    <value xml:space="preserve">Download de handleiding</value>
-  </data>
-  <data name="GettingStarted.FacebookLinkTooltip">
-    <value xml:space="preserve">Facebook</value>
-  </data>
-  <data name="GettingStarted.InvalidEmailMessage">
-    <value xml:space="preserve">Het emailadres is onjuist.</value>
-  </data>
-  <data name="GettingStarted.InvalidEmailTitle">
-    <value xml:space="preserve">Fout</value>
-  </data>
-  <data name="GettingStarted.SignUpButton">
-    <value xml:space="preserve">Inschrijven</value>
-  </data>
-  <data name="GettingStarted.SignUpLabel">
-    <value xml:space="preserve">Inschrijven op onze nieuwsbrief</value>
-  </data>
-  <data name="GettingStarted.SignUpMessage">
-    <value xml:space="preserve">Uw verzoek is ontvangen.</value>
-  </data>
-  <data name="GettingStarted.SignUpText">
-    <value xml:space="preserve">Krijg Tips, trucs, en product updates in je inbox</value>
-  </data>
-  <data name="GettingStarted.SignUpTitle">
-    <value xml:space="preserve">Dank u!</value>
-  </data>
-  <data name="GettingStarted.Title">
-    <value xml:space="preserve">Welkom op je website</value>
-  </data>
-  <data name="GettingStarted.TwitterLinkTooltip">
-    <value xml:space="preserve">DNN Corp Twitter</value>
-  </data>
   <data name="GlobalRoles.Text">
-    <value xml:space="preserve">&lt; Globale Rollen &gt;</value>
+    <value xml:space="preserve">&amp;lt; Globale Rollen &amp;gt;</value>
   </data>
   <data name="GreenSuccess.Text">
     <value xml:space="preserve">Succes</value>
@@ -801,7 +777,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Uur</value>
   </data>
   <data name="HourAgo.Text">
-    <value xml:space="preserve"> uur geleden</value>
+    <value xml:space="preserve">{0} uur geleden</value>
   </data>
   <data name="Hourly.Text">
     <value xml:space="preserve">Per uur</value>
@@ -810,7 +786,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Uren</value>
   </data>
   <data name="HoursAgo.Text">
-    <value xml:space="preserve"> uren geleden</value>
+    <value xml:space="preserve">{0} uren geleden</value>
   </data>
   <data name="Ignore.Text">
     <value xml:space="preserve">Negeren</value>
@@ -819,16 +795,16 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Vriendenverzoek negeren</value>
   </data>
   <data name="InsecureAdmin.Text">
-    <value xml:space="preserve">Uw admin account staat nog steeds ingesteld op het  bekende standaard wachtwoord. Ga nu naar Beheer-&gt; Gebruikersaccounts-menu en het wachtwoord. Daarnaast moet u ervoor zorgen dat u het e-mailadres bijgewerkt naar een geldige waarde.</value>
+    <value xml:space="preserve">Uw admin account staat nog steeds ingesteld op het  bekende standaard wachtwoord. Ga nu naar Beheer-&amp;gt; Gebruikersaccounts-menu en het wachtwoord. Daarnaast moet u ervoor zorgen dat u het e-mailadres bijgewerkt naar een geldige waarde.</value>
   </data>
   <data name="InsecureDefaults.Text">
-    <value xml:space="preserve">Beide standaard accounts (Superuser en admin)  gebruiken de bekende standaard wachtwoorden. Ga naar de desbetreffende menu-items (Superuser-&gt; Superuser accounts en Admin-&gt; Gebruikersaccounts) en het actualiseren van de wachtwoorden. Daarnaast moet u ervoor zorgen dat u het e-mailadres bijwerkt.</value>
+    <value xml:space="preserve">Beide standaard accounts (Superuser en admin)  gebruiken de bekende standaard wachtwoorden. Ga naar de desbetreffende menu-items (Superuser-&amp;gt; Superuser accounts en Admin-&amp;gt; Gebruikersaccounts) en het actualiseren van de wachtwoorden. Daarnaast moet u ervoor zorgen dat u het e-mailadres bijwerkt.</value>
   </data>
   <data name="InsecureDefaults.Title">
     <value xml:space="preserve">Onveilige gebruikersgegevens</value>
   </data>
   <data name="InsecureHost.Text">
-    <value xml:space="preserve">Uw host (superuser) account staat nog steeds ingesteld op het  bekende standaard wachtwoord. Ga naar de Host-&gt; superuser accounts menu en het wachtwoord.</value>
+    <value xml:space="preserve">Uw host (superuser) account staat nog steeds ingesteld op het  bekende standaard wachtwoord. Ga naar de Host-&amp;gt; superuser accounts menu en het wachtwoord.</value>
   </data>
   <data name="InsertSmileyButton.Text">
     <value xml:space="preserve">Smiley invoegen</value>
@@ -1089,13 +1065,25 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Minuut</value>
   </data>
   <data name="MinuteAgo.Text">
-    <value xml:space="preserve"> minuten geleden</value>
+    <value xml:space="preserve">{0} minuten geleden</value>
   </data>
   <data name="Minutes.Text">
     <value xml:space="preserve">Minuten</value>
   </data>
   <data name="MinutesAgo.Text">
-    <value xml:space="preserve"> minuten geleden</value>
+    <value xml:space="preserve">{0} minuten geleden</value>
+  </data>
+  <data name="MODULE_AdminPageAdded.Text" lastModified="2015-12-30 07:27:18">
+    <value xml:space="preserve">Admin pagina {0} toegevoegd aan portaal {1}.</value>
+  </data>
+  <data name="MODULE_AdminPagemoduleAdded.Text" lastModified="2015-12-30 07:27:18">
+    <value xml:space="preserve">Module toegevoegd op admin pagina {0} op portal {1}.</value>
+  </data>
+  <data name="MODULE_AdminPagemoduleRemoved.Text" lastModified="2015-12-30 07:27:18">
+    <value xml:space="preserve">Module verwijderd van admin pagina {0} op portal {1}.</value>
+  </data>
+  <data name="MODULE_AdminPageRemoved.Text" lastModified="2015-12-30 07:27:18">
+    <value xml:space="preserve">Admin pagina {0} verwijderd van portal {1}.</value>
   </data>
   <data name="MODULE_ControlKeyMissing.Text">
     <value xml:space="preserve">Module Control Sleutel Ontbreekt</value>
@@ -1105,6 +1093,21 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
   </data>
   <data name="MODULE_FriendlyNameMissing.Text">
     <value xml:space="preserve">Module Gebruiksvriendelijk Naam Ontbreekt</value>
+  </data>
+  <data name="MODULE_HostAdded.Text" lastModified="2015-12-30 07:27:18">
+    <value xml:space="preserve">Module toegevoegd aan host pagina {0}.</value>
+  </data>
+  <data name="MODULE_HostPageAdded.Text" lastModified="2015-12-30 07:27:18">
+    <value xml:space="preserve">Host pagina {0} toegevoegt. </value>
+  </data>
+  <data name="MODULE_HostPagemoduleAdded.Text" lastModified="2015-12-30 07:27:18">
+    <value xml:space="preserve">Module toegevoegd op host pagina {0}.</value>
+  </data>
+  <data name="MODULE_HostPagemoduleRemoved.Text" lastModified="2015-12-30 07:27:18">
+    <value xml:space="preserve">Module verwijderd van host pagina {0}.</value>
+  </data>
+  <data name="MODULE_HostPageRemoved.Text" lastModified="2015-12-30 07:27:18">
+    <value xml:space="preserve">Host pagina {0} verwijderd.</value>
   </data>
   <data name="MODULE_InvalidVersion.Text">
     <value xml:space="preserve">Versie {0} is ongeldig - niet toe gevoegd aan UpgradeVersions lijst.</value>
@@ -1140,10 +1143,13 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Fout bij laden module</value>
   </data>
   <data name="ModuleLoadWarning.Text">
-    <value xml:space="preserve">Eén of meer van de modules op deze pagina kon niet geladen worden. Dit probleem kan van tijdelijke aard zijn. Probeer de pagina te verversen (in de meeste browsers kunt u dat doen door de toets F5 kort in te drukken). Als het probleem blijft bestaan, neem dan contact op met de &lt;a href="mailto:{0}"&gt;beheerder van deze site&lt;/a&gt;.</value>
+    <value xml:space="preserve">Eén of meer van de modules op deze pagina kon niet geladen worden. Dit probleem kan van tijdelijke aard zijn. Probeer de pagina te verversen (in de meeste browsers kunt u dat doen door de toets F5 kort in te drukken). Als het probleem blijft bestaan, neem dan contact op met de &amp;lt;a href="mailto:{0}"&amp;gt;beheerder van deze site&amp;lt;/a&amp;gt;.</value>
   </data>
   <data name="ModuleNotIntended.Text">
     <value xml:space="preserve">Deze module is alleen bedoeld voor gebruik op een pagina die is gedefinieerd als de profielpagina voor de portal.</value>
+  </data>
+  <data name="ModuleShared.Text" lastModified="2018-07-20 13:43:15">
+    <value xml:space="preserve">Gedeelde module</value>
   </data>
   <data name="ModuleUnavailable.Text">
     <value xml:space="preserve">Fout: {0} is op dit moment niet beschikbaar.</value>
@@ -1155,7 +1161,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Maand</value>
   </data>
   <data name="MonthAgo.Text">
-    <value xml:space="preserve"> maand geleden</value>
+    <value xml:space="preserve">{0} maand geleden</value>
   </data>
   <data name="Monthly.Text">
     <value xml:space="preserve">Maandelijks</value>
@@ -1164,7 +1170,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Maanden</value>
   </data>
   <data name="MonthsAgo.Text">
-    <value xml:space="preserve"> maanden geleden</value>
+    <value xml:space="preserve">{0} maanden geleden</value>
   </data>
   <data name="MyFolderName.Text">
     <value xml:space="preserve">Mijn folder</value>
@@ -1183,6 +1189,9 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
   </data>
   <data name="None_Specified.Text">
     <value xml:space="preserve">Geen Gespecificeerd</value>
+  </data>
+  <data name="NoRecords.Text" lastModified="2015-12-30 07:27:18">
+    <value xml:space="preserve">Geen regels om weer te geven</value>
   </data>
   <data name="Not_Specified.Text">
     <value xml:space="preserve">Niet Gespecificeerd</value>
@@ -1224,7 +1233,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Oke</value>
   </data>
   <data name="OnLine.Text">
-    <value xml:space="preserve">Online</value>
+    <value xml:space="preserve">Online </value>
   </data>
   <data name="PACKAGE_NoLicense.Text">
     <value xml:space="preserve">Dit pakket heeft geen licentie</value>
@@ -1253,7 +1262,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
   <data name="Pages.Text">
     <value xml:space="preserve">Pagina {0} van {1}</value>
   </data>
-  <data name="PaneNotFound.Error" lastModified="2015-01-06 13:30:06">
+  <data name="PaneNotFound.Error">
     <value xml:space="preserve">Content pane voor thema kan niet gevonden worden.</value>
   </data>
   <data name="PaneObject.Text">
@@ -1265,8 +1274,14 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
   <data name="Password.Text">
     <value xml:space="preserve">Wachtwoord:</value>
   </data>
+  <data name="PasswordBanned.Text" lastModified="2015-12-30 07:27:18">
+    <value xml:space="preserve">Je nieuwe wachtwoord wordt niet geaccepteerd omdat het verboden is of gelijk is aan je gebruikersnaam.</value>
+  </data>
   <data name="PasswordChanged.Text">
     <value xml:space="preserve">Het wachtwoord is aangepast.</value>
+  </data>
+  <data name="PasswordInadequate.Text" lastModified="2015-12-30 07:27:18">
+    <value xml:space="preserve">Je wachtwoord is wegens beveiligingsredenen niet geaccepteerd. Vul een nieuw wachtwoord in met de correcte lengte en complexiteit zodat deze voldoet aan de gestelde wachtwoord eisen.</value>
   </data>
   <data name="PasswordInvalid.Text">
     <value xml:space="preserve">U moet een valide wachtwoord invoeren. Neem contact op met de website beheerder als u niet weet wat de vereisten zijn.</value>
@@ -1283,8 +1298,20 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
   <data name="PasswordNotDifferent.Text">
     <value xml:space="preserve">Het nieuwe wachtwoord is hetzelfde als het oude wachtwoord. Voer alstublieft een ander wachtwoord in.</value>
   </data>
-  <data name="PasswordResetFailed.Text" lastModified="2015-01-06 15:07:01">
+  <data name="PasswordResetFailed.Text">
     <value xml:space="preserve">Uw nieuwe wachtwoord kan niet worden geaccepteerd wegens beveiligingsredenen. let erop dat het wachtwoord dat u gekozen heeft niet overeenkomt met een eerdergebruikt wachtwoord en voldoet aan de gestelde eisen voor de complexiteit van het wachtwoord door de website.</value>
+  </data>
+  <data name="PasswordResetFailed_PasswordInHistory.Text">
+    <value xml:space="preserve">Uw nieuwe wachtwoord is niet geaccepteerd wegens beveiligingsredenen. Kies een wachtwoord dat niet overeenkomt met een eerder gebruikt wachtwoord.</value>
+  </data>
+  <data name="PasswordResetFailed_ResetLinkExpired.Text">
+    <value xml:space="preserve">Uw nieuwe wachtwoord is niet geaccepteerd wegens beveiligingsredenen. De wachtwoord reset link is verlopen en niet langer geldig.</value>
+  </data>
+  <data name="PasswordResetFailed_UserUndefined.Text">
+    <value xml:space="preserve">Uw nieuwe wachtwoord is niet geaccepteerd wegens beveiligingsredenen. Kies een wachtwoord dat niet overeenkomt met een eerder gebruikt wachtwoord en controleer of de gebruikersnaam klopt.</value>
+  </data>
+  <data name="PasswordResetFailed_WrongAnswer.Text">
+    <value xml:space="preserve">Uw nieuwe wachtwoord is niet geaccepteerd wegens beveiligingsredenen. Controleer of je de juiste gebruikersnaam en antwoord hebt ingegeven.</value>
   </data>
   <data name="PermissionActionsHeader.Text">
     <value xml:space="preserve">Acties</value>
@@ -1310,14 +1337,17 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
   <data name="PortalTemplate.Error">
     <value xml:space="preserve">Fout bij verwerken Portal Sjabloon</value>
   </data>
+  <data name="PotentialDangerousFile.Text" lastModified="2018-07-20 13:43:15">
+    <value xml:space="preserve">Een mogelijk gevaarlijk bestand is toegevoegd aan uw website</value>
+  </data>
   <data name="Previous.Text">
     <value xml:space="preserve">Vorige</value>
   </data>
   <data name="PrivateConfirmationMessage.Text">
-    <value xml:space="preserve">&lt;strong&gt; Een e-mail met uw gegevens is verstuurd naar de beheerder van portal voor verificatie. Zodra uw aanmelding is goedgekeurd zal er een e-mail  worden verzonden naar uw e-mail adres: {0}. in de tussentijd kunt u verder browsen op de website door de popup te sluiten.&lt;/strong&gt;</value>
+    <value xml:space="preserve">&amp;lt;strong&amp;gt; Een e-mail met uw gegevens is verstuurd naar de beheerder van portal voor verificatie. Zodra uw aanmelding is goedgekeurd zal er een e-mail  worden verzonden naar uw e-mail adres. in de tussentijd kunt u verder browsen op de website door de popup te sluiten.&amp;lt;/strong&amp;gt;</value>
   </data>
   <data name="PrivateMembership.Text">
-    <value xml:space="preserve">&lt;strong&gt; * Opmerking: &lt;/strong&gt; Lidmaatschap van deze website is prive. Als uw account informatie is ingediend, zal de website beheerder in kennis gesteld en uw aanvraag zal worden onderworpen aan een screening procedure. Als uw aanvraag wordt goedgekeurd, ontvangt u melding van uw toegang tot de website.</value>
+    <value xml:space="preserve">&amp;lt;strong&amp;gt; * Opmerking: &amp;lt;/strong&amp;gt; Lidmaatschap van deze website is prive. Als uw account informatie is ingediend, zal de website beheerder in kennis gesteld en uw aanvraag zal worden onderworpen aan een screening procedure. Als uw aanvraag wordt goedgekeurd, ontvangt u melding van uw toegang tot de website.</value>
   </data>
   <data name="ProcessObject.Text">
     <value xml:space="preserve">Verwerken ingesloten object</value>
@@ -1335,7 +1365,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Publiek</value>
   </data>
   <data name="PublicMembership.Text">
-    <value xml:space="preserve">&lt;strong&gt; * Opmerking: &lt;/strong&gt; Lidmaatschap van deze website is publiek. Als uw account informatie is verzonden, dan heeft u onmiddelijk toegang tot de website.</value>
+    <value xml:space="preserve">&amp;lt;strong&amp;gt; * Opmerking: &amp;lt;/strong&amp;gt; Lidmaatschap van deze website is publiek. Als uw account informatie is verzonden, dan heeft u onmiddelijk toegang tot de website.</value>
   </data>
   <data name="PURGE.Log">
     <value xml:space="preserve">Site logboek is succesvol geleegd</value>
@@ -1345,6 +1375,9 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
   </data>
   <data name="PURGEUSERS.Log">
     <value xml:space="preserve">Gegevens over gebruikers die nu online zijn, zijn succesvol verwijderd</value>
+  </data>
+  <data name="QuickSettings.Text" lastModified="2015-12-30 08:27:32">
+    <value xml:space="preserve">Snelle instellingen</value>
   </data>
   <data name="ReadError.Text">
     <value xml:space="preserve">Niet alle gegevens konden gelezen worden: {0}/{1}</value>
@@ -1400,8 +1433,16 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
   <data name="RestrictedFileType.Text">
     <value xml:space="preserve">De File {0} is een niet toegestaan bestandstype. Geldige bestandstypen zijn ( {1} ). Neem contact op met uw hosting provider indien u een niet ondersteunt bestandstype naar uw site wilt uploaden.</value>
   </data>
-  <data name="Review.Text">
-    <value xml:space="preserve">Vooruitblik</value>
+  <data name="RestrictFileMail_Body.Text" lastModified="2018-07-23 13:38:47">
+    <value xml:space="preserve">&lt;p&gt;Geachte Sitegastheer,&lt;/p&gt;&lt;p&gt;De beveiligingswaarnemer heeft gedetecteerd dat een of meer &lt;b&gt;mogelijk gevaarlijke bestanden &lt;/b&gt;aan uw website zijn toegevoegd. Als u alle toegevoegde bestanden wilt bekijken, controleert u de gebeurtenislogboeken van de site.
+Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmiddellijke actie aanbevolen.
+&lt;p&gt;Toegevoegd(e) bestand(en):&lt;br/&gt;&lt;b&gt;[Path]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Bedankt,&lt;/p&gt;&lt;p&gt;[AppName] [AppVersion]&lt;/p&gt;</value>
+  </data>
+  <data name="RestrictFileMail_Subject.Text" lastModified="2018-07-20 13:43:15">
+    <value xml:space="preserve">Potentieel gevaarlijk bestand toegevoegd aan uw website</value>
+  </data>
+  <data name="Review.Text" lastModified="2018-07-20 13:43:15">
+    <value xml:space="preserve">Beoordelen</value>
   </data>
   <data name="Right.Text">
     <value xml:space="preserve">Rechts</value>
@@ -1427,6 +1468,9 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
   <data name="ScriptCollision.Text">
     <value xml:space="preserve">Aanvragen voor twee of meer verschillende versies van JavaScript bibliotheken zijn gedaan voor deze pagina. De details zijn opgeslagen in het logboek.</value>
   </data>
+  <data name="Search.Text">
+    <value xml:space="preserve">Zoeken</value>
+  </data>
   <data name="SEARCH_NoLink.Text">
     <value xml:space="preserve">[Geen link beschikbaar]</value>
   </data>
@@ -1437,7 +1481,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Seconden</value>
   </data>
   <data name="SecondsAgo.Text">
-    <value xml:space="preserve">Seconden geleden</value>
+    <value xml:space="preserve"> {0} Seconden geleden</value>
   </data>
   <data name="SECURITY_Installer.Text">
     <value xml:space="preserve">U bent niet bevoegd dit component te installeren</value>
@@ -1466,19 +1510,19 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
   <data name="SizeMb.Text">
     <value xml:space="preserve">MB</value>
   </data>
-  <data name="SKIN_BeginProcessing.Text" lastModified="2015-01-06 16:08:14">
+  <data name="SKIN_BeginProcessing.Text">
     <value xml:space="preserve">Start verwerken van thema bestanden</value>
   </data>
-  <data name="SKIN_EndProcessing.Text" lastModified="2015-01-06 16:08:14">
+  <data name="SKIN_EndProcessing.Text">
     <value xml:space="preserve">Einde verwerken van thema bestanden</value>
   </data>
-  <data name="SKIN_Installed.Text" lastModified="2015-01-06 16:08:14">
+  <data name="SKIN_Installed.Text">
     <value xml:space="preserve">Het thema is reeds met een andere naam geïnstalleerd</value>
   </data>
-  <data name="SKIN_Registered.Text" lastModified="2015-01-06 16:08:14">
+  <data name="SKIN_Registered.Text">
     <value xml:space="preserve">Thema pakket succesvol geregistreerd - {0}</value>
   </data>
-  <data name="SKIN_UnRegistered.Text" lastModified="2015-01-06 16:08:14">
+  <data name="SKIN_UnRegistered.Text">
     <value xml:space="preserve">De registratie van het thema pakket is succesvol verwijderd - {0}</value>
   </data>
   <data name="SkinFileLoad.Error">
@@ -1493,10 +1537,10 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
   <data name="SkinObjects.Text">
     <value xml:space="preserve">[Skin Objecten]</value>
   </data>
-  <data name="SkinObjectsDescription.Text" lastModified="2015-01-06 13:30:06">
+  <data name="SkinObjectsDescription.Text">
     <value xml:space="preserve">Skin objecten zijn 'User Controls' die gebruikt kunnen worden om extra functionaliteit aan uw thema bestanden te geven.</value>
   </data>
-  <data name="Skins.Text" lastModified="2015-01-06 15:07:01">
+  <data name="Skins.Text">
     <value xml:space="preserve">Thema's</value>
   </data>
   <data name="SkinToken.Text">
@@ -1504,6 +1548,9 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
   </data>
   <data name="SMTPConfigurationProblem.Text">
     <value xml:space="preserve">Er is een probleem met de configuratie van uw e-mailserver. E-mail is niet verzonden.</value>
+  </data>
+  <data name="SmtpInvalidPort.Text" lastModified="2018-07-20 13:43:15">
+    <value xml:space="preserve">De opgegeven poort is ongeldig. De poort moet groter zijn dan 0 en kleiner dan 65536. E-mail is niet verzonden.</value>
   </data>
   <data name="SQL_Begin.Text">
     <value xml:space="preserve">Begin uitvoer Sql</value>
@@ -1538,7 +1585,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
   <data name="SQL_UnknownFile.Text">
     <value xml:space="preserve">Onbekende codering van bestand {0}, stoppen</value>
   </data>
-  <data name="StartProcessor.Text" lastModified="2015-01-06 15:07:01">
+  <data name="StartProcessor.Text">
     <value xml:space="preserve">Verwerking voor theme/container bestanden initialiseren</value>
   </data>
   <data name="StateCompleted.Action">
@@ -1560,7 +1607,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">De Workflow is in de volgende status '[STATE]' </value>
   </data>
   <data name="Substituting.Detail">
-    <value xml:space="preserve">{0}&lt;br&gt;Met: {1}</value>
+    <value xml:space="preserve">{0}&amp;lt;br&amp;gt;Met: {1}</value>
   </data>
   <data name="Substituting.Text">
     <value xml:space="preserve">Vervangen</value>
@@ -1689,7 +1736,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Uw account is succesvol geverifieerd </value>
   </data>
   <data name="VerifiedMembership.Text">
-    <value xml:space="preserve">&lt;strong&gt; * Opmerking: &lt;/strong&gt; Lidmaatschap van deze website moet worden geverifieerd. Als uw account informatie is verzonden, ontvangt u een e-mail met daarin een unieke verificatie code. De verificatie code nodig zal zijn de eerste keer dat u probeert aan te melden bij de website.</value>
+    <value xml:space="preserve">&amp;lt;strong&amp;gt; * Opmerking: &amp;lt;/strong&amp;gt; Lidmaatschap van deze website moet worden geverifieerd. Als uw account informatie is verzonden, ontvangt u een e-mail met daarin een unieke verificatie code. De verificatie code nodig zal zijn de eerste keer dat u probeert aan te melden bij de website.</value>
   </data>
   <data name="ViewJournal.Text">
     <value xml:space="preserve">Weergave</value>
@@ -1701,7 +1748,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Week </value>
   </data>
   <data name="WeekAgo.Text">
-    <value xml:space="preserve"> week geleden</value>
+    <value xml:space="preserve">{0} week geleden</value>
   </data>
   <data name="Weekly.Text">
     <value xml:space="preserve">Wekelijks</value>
@@ -1710,16 +1757,16 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Weken</value>
   </data>
   <data name="WeeksAgo.Text">
-    <value xml:space="preserve"> weken geleden</value>
+    <value xml:space="preserve">{0} weken geleden</value>
   </data>
   <data name="Wizard.Success.FailureDetail">
-    <value xml:space="preserve">&lt;p&gt; Helaas was er een fout met deze Wizard. Gelieve het onderstaande bericht door te nemen en neem contact op met uw provider. &lt;/ P&gt;</value>
+    <value xml:space="preserve">&amp;lt;p&amp;gt; Helaas was er een fout met deze Wizard. Gelieve het onderstaande bericht door te nemen en neem contact op met uw provider. &amp;lt;/ P&amp;gt;</value>
   </data>
   <data name="Wizard.Success.FailureTitle">
     <value xml:space="preserve">Wizard Mislukt:</value>
   </data>
   <data name="Wizard.Success.SuccessDetail">
-    <value xml:space="preserve">&lt;p&gt; Gefeliciteerd. De wizard is voltooid. &lt;/ P&gt;</value>
+    <value xml:space="preserve">&amp;lt;p&amp;gt; Gefeliciteerd. De wizard is voltooid. &amp;lt;/ P&amp;gt;</value>
   </data>
   <data name="Wizard.Success.SuccessTitle">
     <value xml:space="preserve">Gefeliciteerd:</value>

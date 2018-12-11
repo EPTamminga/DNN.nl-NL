@@ -15,14 +15,14 @@
   <data name="Add.Text">
     <value xml:space="preserve">Labels Toevoegen</value>
   </data>
-  <data name="Add.ToolTip">
-    <value xml:space="preserve">Klik op deze link om een label toe te voegen</value>
+  <data name="Add.ToolTip" lastModified="2015-12-30 09:24:11">
+    <value xml:space="preserve">Klik op deze link om een label toe te voegen.</value>
   </data>
   <data name="Cancel.Text">
     <value xml:space="preserve">Annuleren</value>
   </data>
-  <data name="Cancel.ToolTip">
-    <value xml:space="preserve">Klik op annuleren om te stoppen zonder op te slaan</value>
+  <data name="Cancel.ToolTip" lastModified="2015-12-30 09:24:11">
+    <value xml:space="preserve">Klik op annuleren om te stoppen zonder op te slaan.</value>
   </data>
   <data name="Category.ToolTip">
     <value xml:space="preserve">Categorieën</value>
@@ -30,8 +30,8 @@
   <data name="Save.Text">
     <value xml:space="preserve">Opslaan</value>
   </data>
-  <data name="Save.ToolTip">
-    <value xml:space="preserve">Klik om de labels op te slaan</value>
+  <data name="Save.ToolTip" lastModified="2015-12-30 09:24:11">
+    <value xml:space="preserve">Klik om de labels op te slaan.</value>
   </data>
   <data name="Tag.ToolTip">
     <value xml:space="preserve">Labels</value>

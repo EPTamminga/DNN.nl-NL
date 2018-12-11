@@ -100,8 +100,8 @@
   <data name="plAddPage.Text">
     <value xml:space="preserve">Test pagina toevoegen?</value>
   </data>
-  <data name="plDescription.Help">
-    <value xml:space="preserve">Je kunt een beschrijving geven van je module.</value>
+  <data name="plDescription.Help" lastModified="2015-12-31 10:46:26">
+    <value xml:space="preserve">Geef een beschrijving van je module.</value>
   </data>
   <data name="plDescription.Text">
     <value xml:space="preserve">Beschrijving:</value>

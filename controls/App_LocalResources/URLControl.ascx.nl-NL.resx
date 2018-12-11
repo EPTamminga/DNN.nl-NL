@@ -72,8 +72,8 @@
   <data name="Track.Text">
     <value xml:space="preserve">Aantal kliks op deze link vastleggen?&lt;br/&gt;</value>
   </data>
-  <data name="Type.Text">
-    <value xml:space="preserve">Link type:</value>
+  <data name="Type.Text" lastModified="2018-07-18 13:13:44">
+    <value xml:space="preserve">Linktype:</value>
   </data>
   <data name="Upload.Text">
     <value xml:space="preserve">Nieuw bestand uploaden</value>

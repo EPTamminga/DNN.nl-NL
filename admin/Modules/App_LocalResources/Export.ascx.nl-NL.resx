@@ -30,14 +30,14 @@
   <data name="NoContent.Text">
     <value xml:space="preserve">De geselecteerde module bevat geen inhoud</value>
   </data>
-  <data name="plFile.Help">
-    <value xml:space="preserve">Naam voor export bestandsnaam</value>
+  <data name="plFile.Help" lastModified="2015-12-30 08:47:21">
+    <value xml:space="preserve">Vul een export bestandsnaam in.</value>
   </data>
   <data name="plFile.Text">
     <value xml:space="preserve">Bestand</value>
   </data>
-  <data name="plFolder.Help">
-    <value xml:space="preserve">Selecteer de export map</value>
+  <data name="plFolder.Help" lastModified="2015-12-30 08:47:21">
+    <value xml:space="preserve">Selecteer de export map.</value>
   </data>
   <data name="plFolder.Text">
     <value xml:space="preserve">Map</value>

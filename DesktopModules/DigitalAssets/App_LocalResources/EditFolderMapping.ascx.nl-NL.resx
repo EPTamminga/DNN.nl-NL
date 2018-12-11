@@ -24,29 +24,23 @@
   <data name="DuplicateMappingName.Text">
     <value xml:space="preserve">Een routering met dezelfde naam bestaat al. De wijzigingen worden niet opgeslagen</value>
   </data>
+  <data name="FolderProviderSettings.Text">
+    <value xml:space="preserve">Map provider instellingen</value>
+  </data>
+  <data name="GeneralSettings.Text">
+    <value xml:space="preserve">Algemene instellingen</value>
+  </data>
   <data name="FolderProviderLabel.Help">
     <value xml:space="preserve">Selecteerd de map provider die u wilt gebruiken.</value>
   </data>
   <data name="FolderProviderLabel.Text">
     <value xml:space="preserve">Map provider</value>
   </data>
-  <data name="FolderProviderSettings.Text">
-    <value xml:space="preserve">Map provider instellingen</value>
-  </data>
-  <data name="FolderProviderValidator.ErrorMessage">
-    <value xml:space="preserve">Map provider is vereist</value>
-  </data>
-  <data name="GeneralSettings.Text">
-    <value xml:space="preserve">Algemene instellingen</value>
-  </data>
   <data name="NameLabel.Help">
     <value xml:space="preserve">Vul de naam in van deze map routering</value>
   </data>
   <data name="NameLabel.Text">
     <value xml:space="preserve">Naam</value>
-  </data>
-  <data name="NameValidator.ErrorMessage">
-    <value xml:space="preserve">Naam is vereist</value>
   </data>
   <data name="RequiredFields.Text">
     <value xml:space="preserve">Indicatie voor verplichte velden</value>
@@ -59,5 +53,11 @@
   </data>
   <data name="Update.Text">
     <value xml:space="preserve">Bijwerken</value>
+  </data>
+  <data name="FolderProviderValidator.ErrorMessage">
+    <value xml:space="preserve">Map provider is vereist</value>
+  </data>
+  <data name="NameValidator.ErrorMessage">
+    <value xml:space="preserve">Naam is vereist</value>
   </data>
 </root>

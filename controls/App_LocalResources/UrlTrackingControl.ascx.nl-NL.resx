@@ -12,17 +12,17 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Clicks.Text">
-    <value xml:space="preserve">Kliks</value>
+  <data name="URL.Text">
+    <value xml:space="preserve">URL</value>
+  </data>
+  <data name="TrackingUrl.Text">
+    <value xml:space="preserve">URL Bijhouden</value>
   </data>
   <data name="Created.Text">
     <value xml:space="preserve">Aangemaakt</value>
   </data>
-  <data name="Date.Header">
-    <value xml:space="preserve">Datum</value>
-  </data>
-  <data name="EndDate.Text">
-    <value xml:space="preserve">Einddatum logboek</value>
+  <data name="Clicks.Text">
+    <value xml:space="preserve">Kliks</value>
   </data>
   <data name="LastClick.Text">
     <value xml:space="preserve">Laatste klik</value>
@@ -30,11 +30,11 @@
   <data name="StartDate.Text">
     <value xml:space="preserve">Startdatum logboek</value>
   </data>
-  <data name="TrackingUrl.Text">
-    <value xml:space="preserve">URL Bijhouden</value>
+  <data name="EndDate.Text">
+    <value xml:space="preserve">Einddatum logboek</value>
   </data>
-  <data name="Url.Text">
-    <value xml:space="preserve">URL</value>
+  <data name="Date.Header">
+    <value xml:space="preserve">Datum</value>
   </data>
   <data name="User.Header">
     <value xml:space="preserve">Gebruiker</value>

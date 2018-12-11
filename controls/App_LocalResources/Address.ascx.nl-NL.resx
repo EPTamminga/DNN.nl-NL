@@ -12,38 +12,38 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CellRequired.Text">
-    <value xml:space="preserve">Mobiel nummer is verplicht</value>
+  <data name="CellRequired.Text" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Mobiel nummer is verplicht.</value>
   </data>
-  <data name="CityRequired.Text">
-    <value xml:space="preserve">Plaats is verplicht</value>
+  <data name="CityRequired.Text" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Plaats is verplicht.</value>
   </data>
-  <data name="CountryRequired.Text">
-    <value xml:space="preserve">Country is verplicht</value>
+  <data name="CountryRequired.Text" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Country is verplicht.</value>
   </data>
-  <data name="FaxRequired.Text">
-    <value xml:space="preserve">Faxnummer is verplicht</value>
+  <data name="FaxRequired.Text" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Faxnummer is verplicht.</value>
   </data>
-  <data name="plCell.Help">
-    <value xml:space="preserve">Geef uw Mobiel telefoonnummer in</value>
+  <data name="plCell.Help" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Geef uw Mobiel telefoonnummer in.</value>
   </data>
   <data name="plCell.Text">
     <value xml:space="preserve">Mobiel:</value>
   </data>
-  <data name="plCity.Help">
-    <value xml:space="preserve">Geef uw woonplaats in</value>
+  <data name="plCity.Help" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Geef uw woonplaats in.</value>
   </data>
   <data name="plCity.Text">
     <value xml:space="preserve">Woonplaats:</value>
   </data>
-  <data name="plCountry.Help">
-    <value xml:space="preserve">Geef uw land in</value>
+  <data name="plCountry.Help" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Geef uw land in.</value>
   </data>
   <data name="plCountry.Text">
     <value xml:space="preserve">Land:</value>
   </data>
-  <data name="plFax.Help">
-    <value xml:space="preserve">Geef uw faxnummer in</value>
+  <data name="plFax.Help" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Geef uw faxnummer in.</value>
   </data>
   <data name="plFax.Text">
     <value xml:space="preserve">Fax:</value>
@@ -54,8 +54,8 @@
   <data name="plPostal.Text">
     <value xml:space="preserve">Postcode:</value>
   </data>
-  <data name="plProvince.Help">
-    <value xml:space="preserve">Selecteer de provincie uit de lijst</value>
+  <data name="plProvince.Help" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Selecteer de provincie uit de lijst.</value>
   </data>
   <data name="plProvince.Text">
     <value xml:space="preserve">Provincie:</value>
@@ -66,52 +66,52 @@
   <data name="plRegion.Text">
     <value xml:space="preserve">Regio:</value>
   </data>
-  <data name="plState.Help">
-    <value xml:space="preserve">Selecteer de staat uit de lijst</value>
+  <data name="plState.Help" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Selecteer de staat uit de lijst.</value>
   </data>
   <data name="plState.Text">
     <value xml:space="preserve">Staat:</value>
   </data>
-  <data name="plStreet.Help">
-    <value xml:space="preserve">Geef de straat en huisnummer in (b.v. Hoofdstraat 1)</value>
+  <data name="plStreet.Help" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Geef de straat en huisnummer in b.v. Hoofdstraat 1.</value>
   </data>
   <data name="plStreet.Text">
     <value xml:space="preserve">Straat + huisnummer:</value>
   </data>
-  <data name="plTelephone.Help">
-    <value xml:space="preserve">Geef telefoonnummer in</value>
+  <data name="plTelephone.Help" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Geef telefoonnummer in.</value>
   </data>
   <data name="plTelephone.Text">
     <value xml:space="preserve">Telefoon:</value>
   </data>
-  <data name="plUnit.Help">
-    <value xml:space="preserve">Geef het unit # of appartement # in</value>
+  <data name="plUnit.Help" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Geef het unit of appartement in.</value>
   </data>
-  <data name="plUnit.Text">
-    <value xml:space="preserve">Unit/Appartement #</value>
+  <data name="plUnit.Text" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Afdeling #:</value>
   </data>
-  <data name="plZip.Help">
-    <value xml:space="preserve">Geef de postcode in</value>
+  <data name="plZip.Help" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Geef de postcode in.</value>
   </data>
   <data name="plZip.Text">
     <value xml:space="preserve">Postcode:</value>
   </data>
-  <data name="PostalRequired.Text">
-    <value xml:space="preserve">Postcode is verplicht</value>
+  <data name="PostalRequired.Text" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Postcode is verplicht.</value>
   </data>
-  <data name="ProvinceRequired.Text">
-    <value xml:space="preserve">De provincie is verplicht</value>
+  <data name="ProvinceRequired.Text" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">De provincie is verplicht.</value>
   </data>
-  <data name="RegionRequired.Text">
-    <value xml:space="preserve">Regio is vereiverplichtt</value>
+  <data name="RegionRequired.Text" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Regio is vereiverplicht.</value>
   </data>
-  <data name="StateRequired.Text">
-    <value xml:space="preserve">Staat is verplicht</value>
+  <data name="StateRequired.Text" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Staat is verplicht.</value>
   </data>
-  <data name="StreetRequired.Text">
-    <value xml:space="preserve">Street is verplicht</value>
+  <data name="StreetRequired.Text" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Street is verplicht.</value>
   </data>
-  <data name="TelephoneRequired.Text">
-    <value xml:space="preserve">Telefoonnummer is verplicht</value>
+  <data name="TelephoneRequired.Text" lastModified="2015-12-30 10:40:52">
+    <value xml:space="preserve">Telefoonnummer is verplicht.</value>
   </data>
 </root>

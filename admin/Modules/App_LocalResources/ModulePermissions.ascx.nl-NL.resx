@@ -21,8 +21,8 @@
   <data name="Permissions.Text">
     <value xml:space="preserve">Machtigingen</value>
   </data>
-  <data name="plPermissions.Help">
-    <value xml:space="preserve">Selecteer de weergave en bewerk machtigingen door de betreffende checkboxen aan of uit te vinken. De module kan de machtigingen erven van de pagina. Dit kan worden gedaan door op erf machtigingen van pagina checkbox aan te vinken. </value>
+  <data name="plPermissions.Help" lastModified="2015-12-30 09:09:01">
+    <value xml:space="preserve">Selecteer de weergave en bewerk machtigingen door de betreffende checkboxen aan of uit te vinken. Selecteer de erf weergave machtiging optie om de module de weergave rechten van de pagina te laten overnemen.</value>
   </data>
   <data name="plPermissions.Text">
     <value xml:space="preserve">Machtigingen:</value>

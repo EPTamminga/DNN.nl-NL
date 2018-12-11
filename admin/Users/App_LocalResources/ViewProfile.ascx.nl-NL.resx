@@ -15,7 +15,7 @@
   <data name="ControlTitle_viewprofile.Text">
     <value xml:space="preserve">Bekijk profiel</value>
   </data>
-  <data name="NoProperties.Text">
-    <value xml:space="preserve">Deze gebruiker heeft ervoor gekozen zijn/haar profiel te verbergen.</value>
+  <data name="NoProperties.Text" lastModified="2015-12-30 09:26:18">
+    <value xml:space="preserve">Deze gebruiker heeft ervoor gekozen zijn profiel te verbergen.</value>
   </data>
 </root>

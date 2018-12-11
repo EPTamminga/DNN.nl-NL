@@ -33,20 +33,11 @@
   <data name="CriteriaAtLeastNChars.Text">
     <value xml:space="preserve">Ten minste {0} karaters</value>
   </data>
-  <data name="CriteriaAtLeastNSpecialChars.Text">
-    <value xml:space="preserve">Ten minste {0} speciale karakters (!,@,#,%)</value>
+  <data name="CriteriaAtLeastNSpecialChars.Text" lastModified="2015-12-30 10:38:26">
+    <value xml:space="preserve">Ten minste {0} alphanumerieke karakters</value>
   </data>
-  <data name="CriteriaOneLowerCaseLetter.Text">
-    <value xml:space="preserve">één lag teken </value>
-  </data>
-  <data name="CriteriaOneNumber.Text">
-    <value xml:space="preserve">één cijfer</value>
-  </data>
-  <data name="CriteriaOneUpperCaseLetter.Text">
-    <value xml:space="preserve">één hoofdletter</value>
-  </data>
-  <data name="CriteriaSpecialChar.Text">
-    <value xml:space="preserve">Speciale karakters (!,@,#,%)</value>
+  <data name="CriteriaValidationExpression.Text">
+    <value xml:space="preserve">Validatie expressie: {0}</value>
   </data>
   <data name="FieldSuffix.Text">
     <value xml:space="preserve">:</value>
@@ -62,9 +53,6 @@
   </data>
   <data name="FileUpload.DecompressLabel.Text">
     <value xml:space="preserve">Decomprimeer Zipbestanden</value>
-  </data>
-  <data name="FileUpload.DialogHeader.Text">
-    <value xml:space="preserve">Gebruik één van de onderstaande methoden om bestanden te uploaden</value>
   </data>
   <data name="FileUpload.DragAndDropAreaTitle.Text">
     <value xml:space="preserve">Sleep bestanden of klik om te bladeren</value>
@@ -111,7 +99,7 @@
   <data name="FileUpload.UploadFromWebButton.Text">
     <value xml:space="preserve">Upload</value>
   </data>
-  <data name="FileUpload.UploadFromWebMethod.Text" lastModified="2015-01-06 16:23:51">
+  <data name="FileUpload.UploadFromWebMethod.Text">
     <value xml:space="preserve">Van URL</value>
   </data>
   <data name="FileUpload.UploadStopped.Text">
@@ -140,6 +128,12 @@
   </data>
   <data name="Ok.Text">
     <value xml:space="preserve">Oke</value>
+  </data>
+  <data name="PasswordRulesBodyText.Text">
+    <value xml:space="preserve">Bevat tenminste {0} karakters, 1 hoofdletter, 1 nummer en {1}.</value>
+  </data>
+  <data name="PasswordRulesHeadText.Text">
+    <value xml:space="preserve">Wachtwoord regels:</value>
   </data>
   <data name="PasswordStrengthFair.Text">
     <value xml:space="preserve">redelijk</value>

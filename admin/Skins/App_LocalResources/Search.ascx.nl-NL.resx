@@ -24,6 +24,9 @@
   <data name="Search.Text">
     <value xml:space="preserve">Zoeken</value>
   </data>
+  <data name="SearchClearQuery.Text" lastModified="2015-12-30 09:23:51">
+    <value xml:space="preserve">Verwijder zoektekst</value>
+  </data>
   <data name="SeeMoreResults.Text">
     <value xml:space="preserve">Meer resultaten weergeven</value>
   </data>

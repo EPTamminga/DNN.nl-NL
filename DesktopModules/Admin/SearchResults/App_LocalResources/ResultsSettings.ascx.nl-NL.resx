@@ -42,6 +42,12 @@
   <data name="plResultsScopeForPortals.Text">
     <value xml:space="preserve">Resultaten scope voor site(s)</value>
   </data>
+  <data name="plShowDescriptionForSnippet.Help" lastModified="2018-07-24 12:13:17">
+    <value xml:space="preserve">Toon beschrijving i.p.v. snippet. Snippet zal worden getoond als er geen beschrijving aanwezig is.</value>
+  </data>
+  <data name="plShowDescriptionForSnippet.Text" lastModified="2018-07-24 12:13:17">
+    <value xml:space="preserve">Toon beschrijving i.p.v. zoek snippet</value>
+  </data>
   <data name="plTitleLinkTarget.Help">
     <value xml:space="preserve">Stel vast of een link in het zelfde venster wordt geopend of dat er een nieuwe venster wordt geopende voor het weergeven van de resultaten</value>
   </data>

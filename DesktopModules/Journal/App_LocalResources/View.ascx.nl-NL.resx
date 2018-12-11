@@ -42,6 +42,9 @@
   <data name="GetMore.Text">
     <value xml:space="preserve">Meer vrienden</value>
   </data>
+  <data name="GroupMembers.Text" lastModified="2016-03-08 14:26:03">
+    <value xml:space="preserve">Groepsleden</value>
+  </data>
   <data name="LastModified.Header">
     <value xml:space="preserve">Laatst gewijzigd</value>
   </data>

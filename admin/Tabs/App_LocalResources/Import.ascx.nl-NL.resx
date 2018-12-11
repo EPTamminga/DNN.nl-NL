@@ -18,6 +18,9 @@
   <data name="ControlTitle_importtab.Text">
     <value xml:space="preserve">Importeer Pagina</value>
   </data>
+  <data name="EmptyTabName.Text" lastModified="2016-03-08 14:11:04">
+    <value xml:space="preserve">U niet een naam specificeren voor deze pagina.</value>
+  </data>
   <data name="Error.Text">
     <value xml:space="preserve">Er is een fout opgetreden tijdens het importeren</value>
   </data>
@@ -35,6 +38,9 @@
   </data>
   <data name="InsertPosition.Text">
     <value xml:space="preserve">Pagina Invoegen:</value>
+  </data>
+  <data name="InvalidTabName.Text" lastModified="2016-03-08 14:11:04">
+    <value xml:space="preserve">Dit is een ongeldige paginanaam.</value>
   </data>
   <data name="ModeAdd.Text">
     <value xml:space="preserve">Maak een nieuwe pagina</value>
@@ -81,8 +87,8 @@
   <data name="plRedirect.Help">
     <value xml:space="preserve">Geef aan waar naar door te sturen na een succesvol verlopen import.</value>
   </data>
-  <data name="plRedirect.Text">
-    <value xml:space="preserve">Doorstuur modus?</value>
+  <data name="plRedirect.Text" lastModified="2015-12-30 08:25:36">
+    <value xml:space="preserve">Doorstuur modus</value>
   </data>
   <data name="plTabName.Help">
     <value xml:space="preserve">Geef een naam op voor de nieuwe pagina.</value>
